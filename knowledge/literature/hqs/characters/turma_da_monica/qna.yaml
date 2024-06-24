@@ -1,0 +1,45 @@
+---
+created_by: Anderson-Pinto
+version: 2
+domain: personagens da turma da mônica
+seed_examples:
+  - answer: >
+      Cebolinha (em sua versão adolescente, Cebola) é um personagem de
+      histórias em quadrinhos e tirinhas, criado em 1960 por Mauricio de
+      Sousa. Sempre à procura de um jeito de pegar o coelhinho de sua amiga
+      Mônica, o Sansão.
+    question: quem é o Cebolinha?
+  - answer: >
+      A pessoa em quem Mauricio se inspirou é Luiz Carlos da Cruz, um ex-pintor
+      de paredes que reside em Mogi das Cruzes atualmente. O apelido foi dado
+      pelo pai de Mauricio quando o dono de um bar em frente à barbearia de
+      Antonio desenhou olhos e boca numa cebola e a chutou para a rua. Antonio
+      olhou a cebola e disse que era igual ao Luiz, ele era o Cebolinha.
+    question: Em quem Mauricio de Souza se baseou para criar o Cebolinha?
+  - answer: >
+      O personagem tem como marca registrada sua dislalia, trocando as letras
+      R por L na pronúncia (por exemplo, com o trava-línguas “O lato loeu a
+      loupa do lei de Loma”.
+    question: qual a marca registrada do Cebolinha?
+  - answer: >
+      Nas histórias, Cebolinha tem uns oito anos e vive no bairro paulistano
+      do Limoeiro.
+    question: quantos anos o Cebolinha tem nas histórias em quadrinhos?
+  - answer: >
+      Maria Cebolinha é a irmã caçula de Cebolinha, que foi criada inspirada
+      na filha mais velha de Maurício, Mariângela. É bebê, e, por isso, já fez
+      com que seu irmão tivesse que a deixar com Mônica para poder brincar
+      com seus amigos.
+    question: quem é a Maria Cebolinha?
+  - answer: >
+      A dona de casa mãe da família, gosta de seus filhos, mas não aceita
+      quando seu filho, Cebolinha, aborrece sua irmã que logo recebe uma
+      bronca. É cuidadosa com os afazeres domésticos, deixando a casa sempre
+      impecável.
+    question: quem é a Dona Cebola?
+task_description: Knowledge contribution about Indian Nobel laureates
+document:
+  repo: https://github.com/Anderson-Pinto/instructlab_knowledge.git
+  commit: 2f6049092bc26a4efd8287a4d1438fa0aff10789
+  patterns:
+    - cebolinha.md
